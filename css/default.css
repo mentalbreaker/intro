@@ -15,28 +15,11 @@ p{margin-bottom:0.3rem;line-height: 1.5;}
 small{font-size:0.875rem;font-weight: bold;}
 strong{font-weight: bolder;}
 button{font-family: 'Gothic A1',sans-serif ;}
-.highlight-yellow{display:inline-block;padding:2px 15px 2px 0px;background:rgba(255,222,91,0.5); }
-.highlight-black{display:inline-block;padding:2px 15px 2px 0px;background:#444444; color:white;}
-.highlight-blue{display:inline-block;padding:2px 15px 2px 0px;background:rgba(156,187,255,0.5); }
-/*---위치*/
-.pull-right{float:right !important;}
-.pull-left{float:left !important;}
-.text-right{text-align: right !important;}
-.text-center{text-align: center !important;}
-.text-left{text-align: left !important;}
-/*---레이아웃*/
 .c-wrapper{position:relative;}
 .c-section{width:1024px;margin:0 auto;padding:4.3rem 0;}
 .main-bg{width:100%;height:auto;background:url(../img/bg-paper.jpg)no-repeat;background-size:cover;}
-/*---속성*/
 .c-hidden{display:none !important;}
-/*---버튼*/
-/*.btn{display:inline-block;color:currentColor;text-decoration: none;transition:0.2s;-webkit-transition:0.2s;-moz-transition:0.2s;-ms-transition:0.2s;}
-.btn-line:after{content:'';display:block;width:0%;height:3px;margin-top:5px;background:#FFDE5B;transition:0.5s;-webkit-transition:0.5s;-moz-transition:0.5s;-ms-transition:0.5s; }
-.btn-line:hover:after,.btn-line:focus:after{width:100%;}
-.scroll-down{width:50px;margin:0 auto;cursor:pointer;}
-.scroll-down img{width:100%;transition:0.2s;-webkit-transition:0.2s;-moz-transition:0.2s;-ms-transition:0.2s;}
-.scroll-down:hover img{opacity: 0.5;}*/
+
 /*요소*/
 .headline{
     position:absolute;bottom:0;
